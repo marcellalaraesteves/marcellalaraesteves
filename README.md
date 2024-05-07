@@ -4,10 +4,6 @@
 
 🎓 Atualmente curso Sistemas de Informação na FIAP.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellalaraesteves&show_icons=true&theme=transparent)
-
-
 <div> 
 
   <a href = "mailto:marcella.almeida@youxlab.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
